@@ -1,7 +1,9 @@
 # 目次  
 
-* [第0回 顔合わせと実力テスト](#section0)  
-* [第1回 Topic 1 - P35 〜 61 Standard Deviation](#section1)  
+## [第0回 顔合わせと実力テスト](#section0)  
+## [第1回 Topic 1 - P35 〜 61 Standard Deviation](#section1)  
+* [DOTPLOTS](#dotplots)  
+* [BAR CHARTS](#bar_charts)  
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
 
@@ -91,11 +93,27 @@ kindleで探してみる
 
 * 統計検定  
 ひとまずの目標として、3級うけてみる。  
+
 ----------------
 
 ## <a name ="section1"> 第1回 Topic 1 - P35 〜 61 Standard Deviation  
+データを体系化し、配置する方法は多岐にわたる  
+多くの情報は表に入れることができるが、それらは、なんの配慮もされていないデータの羅列である傾向がある  
+図解をすることで、パターンや形状を即座に読み取ることができる。  
+最も一般的なデータの視覚化は、[dotplots](http://goo.gl/faf9qw),棒グラフ,ヒストグラム,そしてstemplots[(幹葉表示)](http://www.toukei.metro.tokyo.jp/manabou/tyuu/sirou2/tokutyou2/ma1206t24h.htm)がある。  
+これらすべての視覚化表現は、明確化されていることが重要で、図が表していることに誤りがないようにすべき。  
+タイトルとラベルが欠けた図は減点対象です。  
 
-* DOTPLOTS  
-Dotplotsと棒グラフは、[カテゴリー変数(質的変数)](http://kccn.konan-u.ac.jp/sociology/research/01/4_1.html)に関して特に有用  
 
+* <a name = "dotplots"> DOTPLOTS  
+Dotplotsと棒グラフは、[カテゴリー変数(質的変数)](http://kccn.konan-u.ac.jp/sociology/research/01/4_1.html)に関して特に有用である  
+カテゴリー変数は、変数がどのカテゴリーに属しているかを表す。
+Dotplotsと棒グラフはカテゴリー変数の数値の対比である。  
+
+* Expample 1.1  
+dotplotはvertical axis(縦軸)と横列のドットで描くことができる  
+実際は、ほとんどすべての場合でタテとヨコは交換可能。  
+ページに適した形で読みやすく見やすければよい。  
+
+* <a name = "bar_charts"> BAR CHARTS  
 
