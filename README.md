@@ -3,7 +3,7 @@
 ## [第0回 顔合わせと実力テスト](#section0)  
 ## [第1回 Topic 1 - P35 〜 61 Standard Deviation](#section1)  
 * [DOTPLOTS](#dotplots)  
-* [BAR CHARTS](#bar_charts)  
+* [BAR CHARTS](#BarCharts)  
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
 
@@ -115,7 +115,7 @@ dotplotはvertical axis(縦軸)と横列のドットで描くことができる
 実際は、ほとんどすべての場合でタテとヨコは交換可能。  
 ページに適した形で読みやすく見やすければよい。  
 
-* <a name = "bar_charts"> BAR CHARTS  
+* <a name = "BarCharts"> BAR CHARTS  
 カテゴリー、またはグループのサイズを比較する一般的なvisual display(画像表示)は、棒グラフである。  
 サイズは、度数または割合(パーセント)で、測定できる。  
 
