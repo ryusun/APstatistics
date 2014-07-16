@@ -1,7 +1,7 @@
 # 目次  
 
 * [第0回 顔合わせと実力テスト](#section0)  
-
+* [第1回 Topic 1 - P35 〜 61 Standard Deviation](#section1)  
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
 
@@ -90,8 +90,10 @@ kindleで探してみる
 ->なかった。  
 
 * 統計検定  
-3級うけてみるか。  
+ひとまずの目標として、3級うけてみる。  
 
+
+## <a name ="section1"> 第1回 Topic 1 - P35 〜 61 Standard Deviation  
 
 
 
