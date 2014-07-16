@@ -117,7 +117,7 @@ dotplotはvertical axis(縦軸)と横列のドットで描くことができる
 
 * <a name = "BarCharts"> BAR CHARTS  
 カテゴリー、またはグループのサイズを比較する一般的なvisual display(画像表示)は、棒グラフである。  
-サイズは、度数または割合(パーセント)で、測定できる。  
+サイズは、[度数](http://goo.gl/TFOQ2x)または割合(パーセント)で、測定できる。  
 
 * Expample 1.2  
 
