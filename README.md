@@ -106,7 +106,7 @@ kindleで探してみる
 タイトルとラベルが欠けた図は減点対象です。  
 
 
-* <a name = "dotplots"> DOTPLOTS    
+### <a name = "dotplots"> DOTPLOTS    
 Dotplotsと棒グラフは、[カテゴリー変数(質的変数)](http://kccn.konan-u.ac.jp/sociology/research/01/4_1.html)に関して特に有用である  
 カテゴリー変数は、変数がどのカテゴリーに属しているかを表す。
 Dotplotsと棒グラフはカテゴリー変数の数値の対比である。  
@@ -117,7 +117,7 @@ Dotplotsと棒グラフはカテゴリー変数の数値の対比である。
 dotplotはvertical axis(縦軸)と横列のドットで描くことができる。  
 実際は、ほとんどすべての場合でタテとヨコは交換可能であり、ページに適した形で読みやすく見やすければよい。  
 
-* <a name = "BarCharts"> BAR CHARTS  
+### <a name = "BarCharts"> BAR CHARTS  
 カテゴリー、またはグループのサイズを比較する一般的なvisual display(画像表示)は、棒グラフである。  
 サイズは、[度数(frequency)](http://goo.gl/TFOQ2x)または割合(パーセント)で、測定できる。  
 
@@ -125,6 +125,6 @@ dotplotはvertical axis(縦軸)と横列のドットで描くことができる�
 支持率調査結果?を棒グラフで表示  
 (異なる)結果の相対的な度数は、棒グラフの高さによって表現される。
 
-* <a name = "histograms"> HISTOGRAMS  
+### <a name = "histograms"> HISTOGRAMS  
 
 
