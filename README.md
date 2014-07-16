@@ -4,6 +4,7 @@
 ## [第1回 Topic 1 - P35 〜 61 Standard Deviation](#section1)  
 * [DOTPLOTS](#dotplots)  
 * [BAR CHARTS](#BarCharts)  
+* [HISTOGRAMS](#histograms)  
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
 
@@ -111,13 +112,19 @@ Dotplotsと棒グラフは、[カテゴリー変数(質的変数)](http://kccn.k
 Dotplotsと棒グラフはカテゴリー変数の数値の対比である。  
 
 * Expample 1.1  
-dotplotはvertical axis(縦軸)と横列のドットで描くことができる  
-実際は、ほとんどすべての場合でタテとヨコは交換可能。  
-ページに適した形で読みやすく見やすければよい。  
+1クラス35人だとして、好きなスポーツを選んだ結果をdotplotで表現してみる。  
+それぞれの結果の度数は、表示されているドットの数で表される。  
+dotplotはvertical axis(縦軸)と横列のドットで描くことができる。  
+実際は、ほとんどすべての場合でタテとヨコは交換可能であり、ページに適した形で読みやすく見やすければよい。  
 
 * <a name = "BarCharts"> BAR CHARTS  
 カテゴリー、またはグループのサイズを比較する一般的なvisual display(画像表示)は、棒グラフである。  
-サイズは、[度数](http://goo.gl/TFOQ2x)または割合(パーセント)で、測定できる。  
+サイズは、[度数(frequency)](http://goo.gl/TFOQ2x)または割合(パーセント)で、測定できる。  
 
 * Expample 1.2  
+支持率調査結果?を棒グラフで表示  
+(異なる)結果の相対的な度数は、棒グラフの高さによって表現される。
+
+* <a name = "histograms"> HISTOGRAMS  
+
 
