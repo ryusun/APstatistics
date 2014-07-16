@@ -105,7 +105,7 @@ kindleで探してみる
 タイトルとラベルが欠けた図は減点対象です。  
 
 
-* <a name = "dotplots"> DOTPLOTS  
+* <a name = "dotplots">DOTPLOTS  
 Dotplotsと棒グラフは、[カテゴリー変数(質的変数)](http://kccn.konan-u.ac.jp/sociology/research/01/4_1.html)に関して特に有用である  
 カテゴリー変数は、変数がどのカテゴリーに属しているかを表す。
 Dotplotsと棒グラフはカテゴリー変数の数値の対比である。  
