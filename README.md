@@ -91,9 +91,11 @@ kindleで探してみる
 
 * 統計検定  
 ひとまずの目標として、3級うけてみる。  
-
+----------------
 
 ## <a name ="section1"> 第1回 Topic 1 - P35 〜 61 Standard Deviation  
 
+* DOTPLOTS  
+Dotplotsと棒グラフは、[カテゴリー変数(質的変数)](http://kccn.konan-u.ac.jp/sociology/research/01/4_1.html)に関して特に有用  
 
 
