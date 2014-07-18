@@ -6,9 +6,11 @@
 * [BAR CHARTS](#BarCharts)  
 * [HISTOGRAMS](#histograms)  
 * [STEMPLOTS](#stemplots)  
-* [CENTER AND SPREAD](#center_and_spread)
-* [Cluster And Gaps](#clusters_and_gaps)
-
+* [CENTER AND SPREAD](#center_and_spread)  
+* [Cluster And Gaps](#clusters_and_gaps)  
+* [OUTLIERS](#outliers)  
+* [CUMULATIVE RELATIV FREQUENCY AND SKEWNESS](#cumulative_relativ_frequency_and_skewness)  
+* [Free-Response Questions](#free-response_questions)  
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
 
@@ -217,4 +219,44 @@ Example 1.7では、センターが、5.46で、spreadが4.07から5.86となる
 
 
 ### <a name = "clusters_and_gaps"> CLUSTERS AND GAPS  
+一般的なパターンで他にも重要な見せ方がある。  
+1.clusters(クラスタ),自然な形でサブグループに分類する方法。  
+例えば、学校のランクが異なる教師が3人いて、その給料をみると、給料が高い傾向の集団と低い傾向の集団があるので、それらはグループ化できる？  
+2.gaps(隔たり？),落としこむ場所のない穴。  
+->なにこれ。  
+例えば、Deanのオフィスは生徒に手紙を送ることを名誉ある役職だと思っているが、受け取る生徒は、グレードの低いものだと警戒している。  
+それ故に、DEANから手紙を受け取った生徒のGPA分布は、中央に巨大なギャップがある。 
+->よくわからない ???  
+
+*  Example 1.8  
+分布の中央付近、42のあたりは、spreadは31-52だが、明確に間違っている。  
+この図は2つの明確に違うclustersで、隔たりがある。  
+
+
+### <a name = "outliers"> OUTLIERS  
+outliersと呼ばれる、極地は、多くの分布が見られる。  
+ときどき、精密な調査をしても、測定結果にエラーがあることがる。  
+しかし、outliersは、偶然の結果であることもある。  
+outliersは分布の両端に位置する。  
+Example 1.7にあるstemplotsの4.07は、明確にoutliers.  
+
+
+### <a name = "cumulative_relativ_frequency_and_skewness"> CUMULATIVE RELATIV FREQUENCY AND SKEWNESS  
+累積相対度数とゆがみ  
+左側が歪んだ分布図は、累積度数プロットが、最初ゆっくり上昇し、そしてあとから急になる。  
+右側が歪んだ分布図は、累積度数プロットが、最初が急で、あとからゆっくりとなる。  
+
+* Example 1.11  
+度数とスコアをもった3つの関係を、累積度数とスコアの関係にまとめると、分かりやすいかも。  
+
+### <a name = "Free-response_questions"> Free-Response Questions  
+
+
+
+
+
+
+
+
+
 
