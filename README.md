@@ -6,6 +6,9 @@
 * [BAR CHARTS](#BarCharts)  
 * [HISTOGRAMS](#histograms)  
 * [STEMPLOTS](#stemplots)  
+* [CENTER AND SPREAD](#center_and_spread)
+* [Cluster And Gaps](#clusters_and_gaps)
+
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
 
@@ -191,15 +194,27 @@ Answer: 実際の度数を見つけ出すことは不可能だ。
 外周にそって、線を引いていくと、水平方向のヒストグラムになる。  
 ->やっていることは同じだけど、見せ方が違うので、情報の残り方が違う。  
 stemplotsは、形状はヒストグラムのようだが、オリジナルデータを指し示す部分が、ヒストグラムではない。  
+ときどき、それぞれの行を照準で並び替えることによって、更に構造が見て取れる。  
+この並び替えられた表示は、オリジナルのstemplotsから第二のレベルの情報を表している。  
+->stemplotsよりも、より多くの情報を持っているという意味？英語難しい。むしろ英語が難しい。  
+
+* Example 1.7  
+4.07を100倍して407にして、stemplotsした図  
+同じルールでstemplotsしている。  
 
 
+### <a name = "center_and_spread"> CENTER AND SPREAD
+Center と Spreadは常に一緒に語られる。  
+グラフを見ていると、２つの重要な一般的なパターンの外見が見える。  
+1. センター(中心)とは、値をおおよそ半分に分ける、(または、ヒストグラムの場合は、曲線の下の領域)  
+-> ヒストグラムの場合というのがイメージできない。  
+2. spread(発散)は、値の最小と最大の範囲のこと。  
+Example 1.3のヒストグラムでは、センターが2childrenで、spreadが0から6のchildrenである。  
+Example 1.4のヒストグラムでは、センターが$50×1000から、$60×1000の間で、spreadが、$20×1000から、$90×1000となる。  
+Example 1.5のヒストグラムでは、センターが27と28の間で、spreadが、25から29である。  
+Example 1.6のstemplotでは、センターが28%、spreaddが13％から、50％  
+Example 1.7では、センターが、5.46で、spreadが4.07から5.86となる。  
 
 
-
-
-
-
-
-
-
+### <a name = "clusters_and_gaps"> CLUSTERS AND GAPS  
 
