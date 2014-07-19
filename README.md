@@ -280,6 +280,7 @@ bimodal 分布図である。
 度数とスコアをもった3つの関係を、累積度数とスコアの関係にまとめると、分かりやすいかも。  
 
 ### <a name = "Free-response_questions"> Free-Response Questions  
+**設問3が何言っているのかわからないorz**  
 
 
 
