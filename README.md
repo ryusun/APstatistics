@@ -9,7 +9,10 @@
 * [CENTER AND SPREAD](#center_and_spread)  
 * [Cluster And Gaps](#clusters_and_gaps)  
 * [OUTLIERS](#outliers)  
-* [CUMULATIVE RELATIV FREQUENCY AND SKEWNESS](#cumulative_relativ_frequency_and_skewness)  
+* [MODES](#modes)  
+* [SHAPE](#shape)  
+* [CUMULATIVE RELATIV FREQUENCY PLOTS](#cumulative_relative_frequency_plots)  
+* [CUMULATIVE RELATIV FREQUENCY AND SKEWNESS](#cumulative_relative_frequency_and_skewness)  
 * [Free-Response Questions](#free-response_questions)  
 
 ## <a name ="section0"> 第0回 顔合わせと実力テスト  
@@ -240,8 +243,35 @@ outliersと呼ばれる、極地は、多くの分布が見られる。
 outliersは分布の両端に位置する。  
 Example 1.7にあるstemplotsの4.07は、明確にoutliers.  
 
+### <a name = "modes"> MODES  
+いくつかの分布図には、1つ以上のピークがある。  
+これをmodesと呼ぶ。(modesは分布の中のもっとも大きな値)  
+厳密に2つのピークがある場合、その分布図をunimodal または bimodalと呼ぶ。  
+小さな突起は、modesではない！  
 
-### <a name = "cumulative_relativ_frequency_and_skewness"> CUMULATIVE RELATIV FREQUENCY AND SKEWNESS  
+* Example 1.9  
+ある会社のインターネットを使用する時間と人数の分布図  
+bimodal 分布図である。  
+一般的に、outliersとmodesの背後の理由を探す。  
+
+
+### <a name = "shape"> SHAPE  
+分布図には数えきれないくらいに形状の種類があるが、価値あるパターンがある。  
+1.左右対称  
+2.右に歪んだ図(横軸の高い値に向かって、低くなっていく)  
+3.左に歪んだ図(横軸の低い値に向かって、低くなっていく)  
+4.ベルの形  
+5.変わらないもの  
+逸脱したデータを除けば、上記のようになっている分布図もある。  
+
+
+### <a name = "cumulative_relative_frequency_plots"> CUMULATIVE RELATIVE FREQUENCY PLOTS  
+度数を合計すると、cumulative relative freuency plot(ogive)として見える  
+
+* Example 1.10  
+グラフから、どの年代までに入学して、どの年代が学生の大半を占めているのかがわかる。  
+
+### <a name = "cumulative_relative_frequency_and_skewness"> CUMULATIVE RELATIV FREQUENCY AND SKEWNESS  
 累積相対度数とゆがみ  
 左側が歪んだ分布図は、累積度数プロットが、最初ゆっくり上昇し、そしてあとから急になる。  
 右側が歪んだ分布図は、累積度数プロットが、最初が急で、あとからゆっくりとなる。  
